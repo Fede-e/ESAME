@@ -194,7 +194,7 @@ h2{
 }
 
 .Titoli{
-    margin-left: 30vw;
+    margin-left: 20vw;
 }
 @media (max-width: 2000px) {
     .Navbar{
@@ -267,6 +267,6 @@ h2{
     }
     .Titoli{
         font-size: 4.5vw;
-        margin-left: 3vw;
+        margin-left: 2.5vw;
     }
 }
